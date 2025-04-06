@@ -34,6 +34,7 @@ Este é um projeto profissional baseado em **Next.js 14 (App Router)** com auten
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/Joao-Pedro-Git/login-next/
+cd login-next
+sudo npm i -f
 ```
